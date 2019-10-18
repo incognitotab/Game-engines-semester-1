@@ -1,2 +1,2 @@
-I am thinking of doing something with procedural animations and colorful visuals. mainly something like space related or the creature from the movie annihilation.
-||https://youtu.be/uBsJgceM0KI?t=45||. Creating something organic would be amazing. Also procedural animations would help me in the future since I am doing game design.
+I am thinking of doing something with procedural animations and colorful visuals.Mainly something space related or the creature from the movie annihilation.
+||https://youtu.be/uBsJgceM0KI?t=45||. Creating something organic would be amazing. Also procedural animations would help me in the future since I am doing game design. I feel like it would not be too hard to make especially since we are learning procedural animations.
