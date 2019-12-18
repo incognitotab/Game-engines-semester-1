@@ -355,7 +355,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 343dd20e9924f1a4080f4535d4ae7b57, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f425d23947cd9e7468c1a35792d077f3, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -454,9 +454,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dottedline: {fileID: 2100000, guid: e8915d6033092b14b8a8daf9e054fb6c, type: 2}
-  backgroundeditor: {fileID: 0}
+  backgroundeditor: {fileID: 2100000, guid: 0c30b5e6aaac7b04d9a125747650e2a4, type: 2}
   instantiator: {fileID: 46634251}
   instantiatee: {fileID: 1634621276523922060, guid: d6bfa9dd02188ee43a2eb4be84b45e0a,
+    type: 3}
+  instantiatortwo: {fileID: 2067352278}
+  instantiateetwo: {fileID: 1588399070886669103, guid: 7232ed396ca4f354db5caddb3088773d,
     type: 3}
   shapes: []
   soundsampling:
@@ -1039,9 +1042,39 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1807703286}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.9, y: -0.8, z: -3}
+  m_LocalPosition: {x: -0.3, y: 0.2, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2067352278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2067352279}
+  m_Layer: 0
+  m_Name: missiles
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2067352279
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067352278}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.3, y: 0.22, z: 6.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
