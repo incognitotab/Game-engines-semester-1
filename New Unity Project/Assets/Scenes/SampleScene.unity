@@ -355,7 +355,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f425d23947cd9e7468c1a35792d077f3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 412c50f0de422514c9f6dbf02fdd26b8, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -461,7 +461,6 @@ MonoBehaviour:
   instantiatortwo: {fileID: 2067352278}
   instantiateetwo: {fileID: 1588399070886669103, guid: 7232ed396ca4f354db5caddb3088773d,
     type: 3}
-  shapes: []
   soundsampling:
   - 0
   - 0
